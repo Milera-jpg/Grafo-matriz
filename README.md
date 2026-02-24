@@ -15,7 +15,9 @@ O programa começa com a inicialização da matriz de adjacencia com zeros para 
 
 
 Em seguida o código verifica o grau dos vertices, percorrendo as arestas e armazenado a contagem: 
+
 -1 e 2 - grau de entrada;
+
 1 e 2 - grau de saida.
 
 
